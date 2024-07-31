@@ -34,12 +34,12 @@
 	</dependencies>
 	<distributionManagement>
 		 <snapshotRepository>
-		    <id>maven-snapshots</id>
+		    <id>NEXUS_CRED</id>
 		    <url>http://15.207.89.59:8081/repository/maven-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
-		    <id>maven-releases</id>
+		    <id>NEXUS_CRED</id>
 		    <url>http://15.207.89.59:8081/repository/maven-releases/</url>
 		</repository>
   	</distributionManagement>
